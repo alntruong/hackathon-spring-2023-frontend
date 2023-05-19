@@ -1,20 +1,5 @@
 {
-  "name": "hackathon-spring-2023-frontend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alntruong/hackathon-spring-2023-frontend.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alntruong/hackathon-spring-2023-frontend/issues"
-  },
-  "homepage": "https://github.com/alntruong/hackathon-spring-2023-frontend#readme"
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
 }
