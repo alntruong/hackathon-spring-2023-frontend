@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@clerk/clerk-react": "^4.17.0",
-    "@clerk/clerk-sdk-node": "^4.10.2",
-    "socket.io": "^4.6.1"
-  }
-}
